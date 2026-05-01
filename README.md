@@ -259,25 +259,6 @@ All use: gitbro clone http://203.0.113.45:3000 project
 - Learning Git internals
 - Portfolio/resume projects
 
-## 💡 Why GitBro?
-
-### For Learning
-- Understand how Git works internally
-- See SHA-1 hashing, tree/blob/commit models in action
-- Learn push/pull mechanics and merge algorithms
-
-### For Your Resume
-- Full-stack JavaScript project
-- Backend: Node.js, APIs, data structures, algorithms
-- Frontend: React, Electron, responsive UI
-- DevOps: Network protocols, distributed systems
-- Shows ability to build complex, functional systems from scratch
-
-### For Team Collaboration
-- Simple HTTP protocol (no SSH keys needed)
-- Works anywhere (local network, VPN, internet)
-- Minimal setup
-- Perfect for hackathons and startup teams
 
 ## 🎯 Getting Started
 
