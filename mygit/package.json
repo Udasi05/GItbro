@@ -1,0 +1,12 @@
+{
+  "name": "gitbro",
+  "version": "1.0.0",
+  "description": "A Git engine built from scratch in Node.js",
+  "type": "module",
+  "bin": {
+    "gitbro": "./bin/gitbro.js"
+  },
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
