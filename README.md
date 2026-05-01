@@ -1,6 +1,5 @@
 # GitBro - Git Implementation from Scratch
 
-A minimal yet fully functional Git engine built from scratch in Node.js with distributed version control, team collaboration, and a desktop GUI.
 
 ## 🎯 What is GitBro?
 
